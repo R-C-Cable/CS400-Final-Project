@@ -1,4 +1,4 @@
-# Simple Java program to show understanding of data structure and algorithms.
+# Simple Java program to show current understanding of data structure and algorithms.
 
 This program:
 -Takes command line arguments.
