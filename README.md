@@ -6,3 +6,8 @@ This program:
 -Inputs them into a programmer defined Queue.
 -Sorts them using a programmer defined recursive Quick Sort algorithm.
 -Uses Comparators to sort them in more than one way.
+
+Photo of output:
+
+![Screenshot from 2021-05-25 10-45-04](https://user-images.githubusercontent.com/77639928/119536431-523caa80-bd46-11eb-85e4-be38a919231e.png)
+
