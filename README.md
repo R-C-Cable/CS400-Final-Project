@@ -1,5 +1,7 @@
 # Simple Java program to show current understanding of data structure and algorithms.
 
+Completed 04/04/2021
+
 This program:
 -Takes command line arguments.
 -Creates Person objects.
