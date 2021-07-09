@@ -11,8 +11,5 @@ This program:
 
 Photo of output:
 
-![Screenshot from 2021-05-25 10-45-04](https://user-images.githubusercontent.com/77639928/119536431-523caa80-bd46-11eb-85e4-be38a919231e.png)
-
-
 ![119536431-523caa80-bd46-11eb-85e4-be38a919231e](https://user-images.githubusercontent.com/77639928/125139993-ce106d80-e0ce-11eb-84e4-c28ba9ad48e1.png)
 
